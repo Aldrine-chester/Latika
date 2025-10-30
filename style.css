@@ -1,9 +1,8 @@
 body {
-  background-color: #010101;
-  font-family: montserrat, sans-serif;
-  color: #101010
+  background-color: #FFFFE0;
+  font-family: arial, sans-serif;
+  color: #d97f43;
 }
-
 .kartu-profil {
   width: 300px;
   margin: 50px auto
@@ -11,4 +10,5 @@ body {
   background-color: white;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0,0,0,0,1)
+}
   
